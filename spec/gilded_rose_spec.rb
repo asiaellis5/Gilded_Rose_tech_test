@@ -4,6 +4,5 @@ require 'gilded_rose'
 
 describe GildedRose do
   describe '#update_aged_brie' do
-
   end
 end

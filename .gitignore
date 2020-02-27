@@ -7,3 +7,5 @@ coverage
 ruby
 .DS_Store
 .bettercodehub.yml
+.rubocop_todo.yml
+.rubocop.yml
